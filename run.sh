@@ -1,5 +1,5 @@
-echo 'Hello from run.sh!'
-
+#! /bin/bash
+echo "Hello from run.sh!"
 ls
 pwd
-echo 'arman made some changes'
+echo "arman made some changes"
